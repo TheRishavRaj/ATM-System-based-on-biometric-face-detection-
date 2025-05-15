@@ -29,4 +29,4 @@ Bank of GEU is a desktop-based banking application developed using Java (Swing) 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/bankofgeu.git
+git clone https://github.com/TheRishavRaj/bankofgeu.git
