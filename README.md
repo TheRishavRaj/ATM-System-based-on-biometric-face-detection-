@@ -27,7 +27,6 @@ Bank of GEU is a desktop-based banking application developed using Java (Swing) 
 ## 🛠️ Images (Screenshot)
 ![Screenshot 2025-05-15 162456](https://github.com/user-attachments/assets/b1fb2ea7-25dc-4673-8274-73e1e64651a7)
 
-![Screenshot 2025-05-15 162718](https://github.com/user-attachments/assets/b488c179-2f12-4b5d-b097-9d63475356af)
 
 ![Screenshot 2025-05-15 162851](https://github.com/user-attachments/assets/205ff292-4bb8-4335-ab40-5b7bb2270846)
 
